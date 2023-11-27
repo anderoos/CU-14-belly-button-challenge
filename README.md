@@ -10,14 +10,15 @@ The dataset reveals that a small handful of microbial species (also called opera
  * [static/js](https://github.com/anderoos/CU-14-belly-button-challenge/blob/main/static/js/app.js)
  * [index.html](https://github.com/anderoos/CU-14-belly-button-challenge/blob/main/index.html)
  * [Gitpages Link](https://anderoos.github.io)
-   Note: This GitPages link will expire in 30 days.
+
+Note: This GitPages link will expire in 30 days.
    
 ## Approaches and Resources
 
 ## Resources
-  *[Plotly - Gauge Charts in JS](https://plotly.com/javascript/indicator/)
-  *[Plotly - Bar Charts in JS](https://plotly.com/javascript/bar-charts/)
-  *[DOM Selection in JS](https://www.tutorialsteacher.com/d3js/select-dom-element-using-d3js)
+  * [Plotly - Gauge Charts in JS](https://plotly.com/javascript/indicator/)
+  * [Plotly - Bar Charts in JS](https://plotly.com/javascript/bar-charts/)
+  * [DOM Selection in JS](https://www.tutorialsteacher.com/d3js/select-dom-element-using-d3js)
 
 
 
