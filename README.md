@@ -9,7 +9,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 ## Featured files
  * [static/js](https://github.com/anderoos/CU-14-belly-button-challenge/blob/main/static/js/app.js)
  * [index.html](https://github.com/anderoos/CU-14-belly-button-challenge/blob/main/index.html)
- * [Gitpages Link](https://anderoos.github.io)
+ * [Gitpages Link](https://anderoos.github.io/CU-14-belly-button-challenge/)
 
 Note: This GitPages link will expire in 30 days.
    
